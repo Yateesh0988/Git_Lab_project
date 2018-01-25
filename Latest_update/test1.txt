@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 1A6D-7079
+
+ Directory of D:\Git_Jenkins_Project
+
+06/27/2017  07:00 PM    <DIR>          .
+06/27/2017  07:00 PM    <DIR>          ..
+06/27/2017  07:00 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  123,556,712,448 bytes free
